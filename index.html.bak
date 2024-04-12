@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>LR_FIO_GIT1</title>
+</head>
+<body>
+<h3>Insert images into HTML code</h3>
+<img src="images/image1.jpg" />
+<img src="images/image2.jpg" />
+
+<img src="images/image3.jpg" />
+<img src="images/image4.jpg" />
+
+</body>
+
+</html>

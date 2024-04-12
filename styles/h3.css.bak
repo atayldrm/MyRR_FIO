@@ -1,0 +1,12 @@
+h3{
+<<<<<<< HEAD
+	color: #a52a2a;
+	font-size:24pt;
+	font-family:Georgia, Times serif;
+=======
+	color:#332a33;
+	font-size:16pt;
+	font-family:Georgis. times,serif;
+>>>>>>> 7fd0d2b (modify index.html for styles2)
+	font-weight:normal;
+}
